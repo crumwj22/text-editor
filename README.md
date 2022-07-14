@@ -40,9 +40,9 @@ To deploy this full-stack application to Heroku use the [Heroku Deployment Guide
 
 ## Usage
 
-`npm start`
+to use the app on your local browser `npm start`
 
-`heroku open`
+to open the app on heroku `heroku open`
 
 ---
 
